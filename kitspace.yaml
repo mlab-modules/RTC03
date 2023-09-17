@@ -1,0 +1,9 @@
+bom: hw/sch_pcb/RTC03.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/RTC03.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/RTC03
+summary: Modul contains real-time clock IO PCF8583, which can work as signal counter
+  up to 20kHz.

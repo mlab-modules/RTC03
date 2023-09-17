@@ -1,0 +1,17 @@
+description: Modul contains real-time clock IO PCF8583, which can work as signal counter
+  up to 20kHz.
+github_branch: RTC03A
+github_description: Modul contains real-time clock IO PCF8583, which can work as signal
+  counter up to 20kHz.
+github_repo: RTC03
+github_url: https://github.com/mlab-modules/RTC03
+homepage: false
+images:
+- doc/img/RTC03A_QRcode.png
+- doc/img/pcb.png
+- hw/sch_pcb/RTC03A.svg
+mark: 50
+status: 0
+tags: []
+title: RTC03
+updated: '2023-09-17T11:46:49.519912+00:00'
