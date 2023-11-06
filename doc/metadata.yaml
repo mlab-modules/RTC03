@@ -11,7 +11,7 @@ images:
 - doc/img/pcb.png
 - hw/sch_pcb/RTC03A.svg
 mark: 50
-status: 0
+status: 2
 tags: []
 title: RTC03
 updated: '2023-09-17T11:46:49.519912+00:00'
