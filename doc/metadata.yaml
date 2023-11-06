@@ -6,6 +6,7 @@ github_description: Modul contains real-time clock IO PCF8583, which can work as
 github_repo: RTC03
 github_url: https://github.com/mlab-modules/RTC03
 homepage: false
+image_title: doc/img/pcb.png
 images:
 - doc/img/RTC03A_QRcode.png
 - doc/img/pcb.png
