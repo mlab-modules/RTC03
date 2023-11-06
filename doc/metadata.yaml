@@ -12,6 +12,11 @@ images:
 - hw/sch_pcb/RTC03A.svg
 mark: 50
 status: 2
-tags: []
+tags:
+- frequency-counter
+- i2c
+- i2c-device
+- real-time-clock
+- rtc
 title: RTC03
-updated: '2023-11-06T23:00:08.159786+00:00'
+updated: '2023-11-06T23:03:23.138812+00:00'
